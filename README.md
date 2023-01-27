@@ -16,7 +16,7 @@
 
 ### **3.List of IPs responding to echo requests:**
 
-
+![](https://github.com/dobyfreejr/Networking-Fundamentals/blob/714f1f6218bb20d146cc9a9d49403799dce3635b/images/shot-2023-01-26_23-44-21.png) 
 
 ### **4.Explain which OSI layer(s) your findings involve:**
 
