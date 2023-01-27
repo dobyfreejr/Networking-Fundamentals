@@ -95,7 +95,7 @@
 
 ### **3.HTTP findings, including the message from the hacker:**
 
-
+![](https://github.com/dobyfreejr/Networking-Fundamentals/blob/725d39f4e8a1204f7f605bd199fcac730b858061/images/shot-2023-01-26_23-46-33.png)
 
 
 ### **4.Explain the OSI layers for HTTP and ARP.**
