@@ -69,7 +69,7 @@
 
 
 ### **3.Domain name findings:**
-
+![](https://github.com/dobyfreejr/Networking-Fundamentals/blob/5828486181bfd1037f09ba439e6c9f3e6a6fd85e/images/shot-2023-01-26_23-45-55.png)
 
 ### **4.Explain what OSI layer DNS runs on:**
 
